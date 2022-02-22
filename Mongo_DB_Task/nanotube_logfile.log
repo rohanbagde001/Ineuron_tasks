@@ -1,0 +1,22 @@
+22-02-22 11:15:46 ERROR-Connection Issue: 'MongoClient' object is not iterable
+22-02-22 11:15:46 ERROR-Database Creation issue: 'MongoDB' object has no attribute 'client'
+22-02-22 11:15:46 ERROR-Collection Creation Issue: 'MongoDB' object has no attribute 'database'
+22-02-22 11:21:36 ERROR-Data Insertion Issue: 'MongoDB' object has no attribute 'collection'
+22-02-22 11:28:49 ERROR-Connection Issue: 'MongoClient' object is not iterable
+22-02-22 11:28:49 ERROR-Database Creation issue: 'MongoDB' object has no attribute 'client'
+22-02-22 11:28:49 ERROR-Collection Creation Issue: 'MongoDB' object has no attribute 'database'
+22-02-22 11:32:04 ERROR-Data Insertion Issue: 'MongoDB' object has no attribute 'collection'
+22-02-22 11:43:02 ERROR-Update failed: 'MongoDB' object has no attribute 'collection'
+2022-02-22 12:05:56 INFO-Connection Established!MongoClient(host=['cluster0-shard-00-01.mn3cj.mongodb.net:27017', 'cluster0-shard-00-00.mn3cj.mongodb.net:27017', 'cluster0-shard-00-02.mn3cj.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nu2odi-shard-0', tls=True)
+2022-02-22 12:06:29 INFO-Database Created: carbon_nano_dbDatabase(MongoClient(host=['cluster0-shard-00-01.mn3cj.mongodb.net:27017', 'cluster0-shard-00-00.mn3cj.mongodb.net:27017', 'cluster0-shard-00-02.mn3cj.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nu2odi-shard-0', tls=True), 'carbon_nano_db')
+2022-02-22 12:06:43 INFO-Collection Created: nanotube_collectionCollection(Database(MongoClient(host=['cluster0-shard-00-01.mn3cj.mongodb.net:27017', 'cluster0-shard-00-00.mn3cj.mongodb.net:27017', 'cluster0-shard-00-02.mn3cj.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nu2odi-shard-0', tls=True), 'carbon_nano_db'), 'nanotube_collection')
+2022-02-22 12:07:04 INFO-Data Inserted: 10721records
+2022-02-22 12:10:26 INFO-Data Inserted: 1records
+2022-02-22 12:11:42 INFO-Data Updated
+2022-02-22 12:13:29 INFO-Data Updated
+2022-02-22 14:27:51 INFO-Record Deleted
+2022-02-22 14:28:43 INFO-Record Deleted
+2022-02-22 14:29:25 INFO-Finding the records for query: {'m': '1'}
+2022-02-22 14:29:57 INFO-Finding the records for query: {'m': {'$lte': 2}}
+2022-02-22 14:30:09 INFO-Finding the records for query: {'u': {'$in': ['0,287448', '0,489336', '0,665708']}}
+2022-02-22 14:30:25 INFO-Displaying the top 10records
