@@ -1,0 +1,244 @@
+2022-02-23 11:14:51 DEBUG-diff parser start
+2022-02-23 11:14:51 DEBUG-line_lengths old: 12; new: 5
+2022-02-23 11:14:51 DEBUG--> code[replace] old[1:1] new[1:1]
+2022-02-23 11:14:51 DEBUG-parse_part from 1 to 1 (to 2 in part parser)
+2022-02-23 11:14:51 DEBUG--> code[equal] old[2:2] new[2:2]
+2022-02-23 11:14:51 DEBUG-parse_part from 2 to 5 (to 4 in part parser)
+2022-02-23 11:14:51 DEBUG--> code[replace] old[3:12] new[3:5]
+2022-02-23 11:14:51 DEBUG-diff parser end
+2022-02-23 11:20:02 DEBUG-diff parser start
+2022-02-23 11:20:02 DEBUG-line_lengths old: 5; new: 18
+2022-02-23 11:20:02 DEBUG--> code[equal] old[1:4] new[1:4]
+2022-02-23 11:20:02 DEBUG-copy old[1:1] new[1:1]
+2022-02-23 11:20:02 DEBUG-parse_part from 2 to 2 (to 2 in part parser)
+2022-02-23 11:20:02 DEBUG-parse_part from 3 to 18 (to 17 in part parser)
+2022-02-23 11:20:02 DEBUG--> code[replace] old[5:5] new[5:18]
+2022-02-23 11:20:02 DEBUG-diff parser end
+2022-02-23 11:20:07 DEBUG-diff parser start
+2022-02-23 11:20:07 DEBUG-line_lengths old: 18; new: 18
+2022-02-23 11:20:07 DEBUG--> code[equal] old[1:17] new[1:17]
+2022-02-23 11:20:07 DEBUG-copy old[1:17] new[1:14]
+2022-02-23 11:20:07 DEBUG-parse_part from 15 to 18 (to 17 in part parser)
+2022-02-23 11:20:07 DEBUG--> code[replace] old[18:18] new[18:18]
+2022-02-23 11:20:07 DEBUG-diff parser end
+2022-02-23 11:20:47 DEBUG-diff parser start
+2022-02-23 11:20:47 DEBUG-line_lengths old: 18; new: 19
+2022-02-23 11:20:47 DEBUG--> code[equal] old[1:17] new[1:17]
+2022-02-23 11:20:47 DEBUG-copy old[1:17] new[1:14]
+2022-02-23 11:20:47 DEBUG-parse_part from 15 to 19 (to 18 in part parser)
+2022-02-23 11:20:47 DEBUG--> code[replace] old[18:18] new[18:19]
+2022-02-23 11:20:47 DEBUG-diff parser end
+2022-02-23 11:20:47 DEBUG-pickle loaded: C:\Users\rohan\anaconda3\lib\csv.py
+2022-02-23 11:20:47 DEBUG-pickle loaded: C:\Users\rohan\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\csv.pyi
+2022-02-23 11:20:47 DEBUG-pickle loaded: C:\Users\rohan\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\_csv.pyi
+2022-02-23 11:21:03 DEBUG-diff parser start
+2022-02-23 11:21:03 DEBUG-line_lengths old: 19; new: 20
+2022-02-23 11:21:03 DEBUG--> code[equal] old[1:18] new[1:18]
+2022-02-23 11:21:03 DEBUG-copy old[1:18] new[1:14]
+2022-02-23 11:21:03 DEBUG-parse_part from 15 to 20 (to 19 in part parser)
+2022-02-23 11:21:03 DEBUG--> code[replace] old[19:19] new[19:20]
+2022-02-23 11:21:03 DEBUG-diff parser end
+2022-02-23 11:21:03 DEBUG-pickle loaded: C:\Users\rohan\anaconda3\lib\typing.py
+2022-02-23 11:21:03 DEBUG-pickle loaded: C:\Users\rohan\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-02-23 11:21:08 DEBUG-diff parser start
+2022-02-23 11:21:08 DEBUG-line_lengths old: 20; new: 20
+2022-02-23 11:21:08 DEBUG--> code[equal] old[1:19] new[1:19]
+2022-02-23 11:21:08 DEBUG-copy old[1:19] new[1:14]
+2022-02-23 11:21:08 DEBUG-parse_part from 15 to 20 (to 19 in part parser)
+2022-02-23 11:21:08 DEBUG--> code[replace] old[20:20] new[20:20]
+2022-02-23 11:21:08 DEBUG-diff parser end
+2022-02-23 11:21:26 DEBUG-diff parser start
+2022-02-23 11:21:26 DEBUG-line_lengths old: 20; new: 21
+2022-02-23 11:21:26 DEBUG--> code[equal] old[1:19] new[1:19]
+2022-02-23 11:21:26 DEBUG-copy old[1:19] new[1:14]
+2022-02-23 11:21:26 DEBUG-parse_part from 15 to 21 (to 20 in part parser)
+2022-02-23 11:21:26 DEBUG--> code[replace] old[20:20] new[20:21]
+2022-02-23 11:21:26 DEBUG-diff parser end
+2022-02-23 11:21:30 DEBUG-diff parser start
+2022-02-23 11:21:30 DEBUG-line_lengths old: 21; new: 21
+2022-02-23 11:21:30 DEBUG--> code[equal] old[1:20] new[1:20]
+2022-02-23 11:21:30 DEBUG-copy old[1:20] new[1:14]
+2022-02-23 11:21:30 DEBUG-parse_part from 15 to 21 (to 20 in part parser)
+2022-02-23 11:21:30 DEBUG--> code[replace] old[21:21] new[21:21]
+2022-02-23 11:21:30 DEBUG-diff parser end
+2022-02-23 11:22:06 DEBUG-diff parser start
+2022-02-23 11:22:06 DEBUG-line_lengths old: 21; new: 22
+2022-02-23 11:22:06 DEBUG--> code[equal] old[1:20] new[1:20]
+2022-02-23 11:22:06 DEBUG-copy old[1:20] new[1:14]
+2022-02-23 11:22:06 DEBUG-parse_part from 15 to 22 (to 21 in part parser)
+2022-02-23 11:22:06 DEBUG--> code[replace] old[21:21] new[21:22]
+2022-02-23 11:22:06 DEBUG-diff parser end
+2022-02-23 11:22:12 DEBUG-diff parser start
+2022-02-23 11:22:12 DEBUG-line_lengths old: 22; new: 22
+2022-02-23 11:22:12 DEBUG--> code[equal] old[1:21] new[1:21]
+2022-02-23 11:22:12 DEBUG-copy old[1:21] new[1:14]
+2022-02-23 11:22:12 DEBUG-parse_part from 15 to 22 (to 21 in part parser)
+2022-02-23 11:22:12 DEBUG--> code[replace] old[22:22] new[22:22]
+2022-02-23 11:22:12 DEBUG-diff parser end
+2022-02-23 11:22:31 DEBUG-diff parser start
+2022-02-23 11:22:31 DEBUG-line_lengths old: 22; new: 23
+2022-02-23 11:22:31 DEBUG--> code[equal] old[1:21] new[1:21]
+2022-02-23 11:22:31 DEBUG-copy old[1:21] new[1:14]
+2022-02-23 11:22:31 DEBUG-parse_part from 15 to 23 (to 22 in part parser)
+2022-02-23 11:22:31 DEBUG--> code[replace] old[22:22] new[22:23]
+2022-02-23 11:22:31 DEBUG-diff parser end
+2022-02-23 11:22:38 DEBUG-diff parser start
+2022-02-23 11:22:38 DEBUG-line_lengths old: 23; new: 23
+2022-02-23 11:22:38 DEBUG--> code[equal] old[1:22] new[1:22]
+2022-02-23 11:22:38 DEBUG-copy old[1:22] new[1:14]
+2022-02-23 11:22:38 DEBUG-parse_part from 15 to 23 (to 22 in part parser)
+2022-02-23 11:22:38 DEBUG--> code[replace] old[23:23] new[23:23]
+2022-02-23 11:22:38 DEBUG-diff parser end
+2022-02-23 11:23:39 DEBUG-diff parser start
+2022-02-23 11:23:39 DEBUG-line_lengths old: 23; new: 25
+2022-02-23 11:23:39 DEBUG--> code[equal] old[1:22] new[1:22]
+2022-02-23 11:23:39 DEBUG-copy old[1:22] new[1:14]
+2022-02-23 11:23:39 DEBUG-parse_part from 15 to 25 (to 24 in part parser)
+2022-02-23 11:23:39 DEBUG--> code[replace] old[23:23] new[23:25]
+2022-02-23 11:23:39 DEBUG-diff parser end
+2022-02-23 11:24:02 DEBUG-diff parser start
+2022-02-23 11:24:02 DEBUG-line_lengths old: 25; new: 25
+2022-02-23 11:24:02 DEBUG--> code[equal] old[1:24] new[1:24]
+2022-02-23 11:24:02 DEBUG-copy old[1:24] new[1:14]
+2022-02-23 11:24:02 DEBUG-parse_part from 15 to 25 (to 24 in part parser)
+2022-02-23 11:24:02 DEBUG--> code[replace] old[25:25] new[25:25]
+2022-02-23 11:24:02 DEBUG-diff parser end
+2022-02-23 11:24:15 DEBUG-diff parser start
+2022-02-23 11:24:15 DEBUG-line_lengths old: 25; new: 26
+2022-02-23 11:24:15 DEBUG--> code[equal] old[1:24] new[1:24]
+2022-02-23 11:24:15 DEBUG-copy old[1:24] new[1:14]
+2022-02-23 11:24:15 DEBUG-parse_part from 15 to 26 (to 25 in part parser)
+2022-02-23 11:24:15 DEBUG--> code[replace] old[25:25] new[25:26]
+2022-02-23 11:24:15 DEBUG-diff parser end
+2022-02-23 11:25:01 DEBUG-diff parser start
+2022-02-23 11:25:01 DEBUG-line_lengths old: 26; new: 27
+2022-02-23 11:25:01 DEBUG--> code[equal] old[1:25] new[1:25]
+2022-02-23 11:25:01 DEBUG-copy old[1:25] new[1:14]
+2022-02-23 11:25:01 DEBUG-parse_part from 15 to 27 (to 26 in part parser)
+2022-02-23 11:25:01 DEBUG--> code[replace] old[26:26] new[26:27]
+2022-02-23 11:25:01 DEBUG-diff parser end
+2022-02-23 11:25:05 DEBUG-diff parser start
+2022-02-23 11:25:05 DEBUG-line_lengths old: 27; new: 27
+2022-02-23 11:25:05 DEBUG--> code[equal] old[1:26] new[1:26]
+2022-02-23 11:25:05 DEBUG-copy old[1:26] new[1:14]
+2022-02-23 11:25:05 DEBUG-parse_part from 15 to 27 (to 26 in part parser)
+2022-02-23 11:25:05 DEBUG--> code[replace] old[27:27] new[27:27]
+2022-02-23 11:25:05 DEBUG-diff parser end
+2022-02-23 11:25:05 DEBUG-pickle loaded: C:\Users\rohan\anaconda3\lib\abc.py
+2022-02-23 11:25:05 DEBUG-pickle loaded: C:\Users\rohan\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\abc.pyi
+2022-02-23 11:25:17 DEBUG-diff parser start
+2022-02-23 11:25:17 DEBUG-line_lengths old: 27; new: 29
+2022-02-23 11:25:17 DEBUG--> code[equal] old[1:26] new[1:26]
+2022-02-23 11:25:17 DEBUG-copy old[1:26] new[1:14]
+2022-02-23 11:25:17 DEBUG-parse_part from 15 to 29 (to 28 in part parser)
+2022-02-23 11:25:17 DEBUG--> code[replace] old[27:27] new[27:29]
+2022-02-23 11:25:17 DEBUG-diff parser end
+2022-02-23 11:25:46 DEBUG-diff parser start
+2022-02-23 11:25:46 DEBUG-line_lengths old: 29; new: 30
+2022-02-23 11:25:46 DEBUG--> code[equal] old[1:28] new[1:28]
+2022-02-23 11:25:46 DEBUG-copy old[1:28] new[1:14]
+2022-02-23 11:25:46 DEBUG-parse_part from 15 to 30 (to 29 in part parser)
+2022-02-23 11:25:46 DEBUG--> code[replace] old[29:29] new[29:30]
+2022-02-23 11:25:46 DEBUG-diff parser end
+2022-02-23 11:26:00 DEBUG-diff parser start
+2022-02-23 11:26:00 DEBUG-line_lengths old: 30; new: 30
+2022-02-23 11:26:00 DEBUG--> code[equal] old[1:29] new[1:29]
+2022-02-23 11:26:00 DEBUG-copy old[1:29] new[1:14]
+2022-02-23 11:26:00 DEBUG-parse_part from 15 to 30 (to 29 in part parser)
+2022-02-23 11:26:00 DEBUG--> code[replace] old[30:30] new[30:30]
+2022-02-23 11:26:00 DEBUG-diff parser end
+2022-02-23 11:26:34 DEBUG-diff parser start
+2022-02-23 11:26:34 DEBUG-line_lengths old: 30; new: 30
+2022-02-23 11:26:34 DEBUG--> code[equal] old[1:29] new[1:29]
+2022-02-23 11:26:34 DEBUG-copy old[1:29] new[1:14]
+2022-02-23 11:26:34 DEBUG-parse_part from 15 to 30 (to 29 in part parser)
+2022-02-23 11:26:34 DEBUG--> code[replace] old[30:30] new[30:30]
+2022-02-23 11:26:34 DEBUG-diff parser end
+2022-02-23 11:26:40 DEBUG-diff parser start
+2022-02-23 11:26:40 DEBUG-line_lengths old: 30; new: 30
+2022-02-23 11:26:40 DEBUG--> code[equal] old[1:29] new[1:29]
+2022-02-23 11:26:40 DEBUG-copy old[1:29] new[1:14]
+2022-02-23 11:26:40 DEBUG-parse_part from 15 to 30 (to 29 in part parser)
+2022-02-23 11:26:40 DEBUG--> code[replace] old[30:30] new[30:30]
+2022-02-23 11:26:40 DEBUG-diff parser end
+2022-02-23 11:26:40 DEBUG-diff parser start
+2022-02-23 11:26:40 DEBUG-line_lengths old: 30; new: 30
+2022-02-23 11:26:40 DEBUG--> code[equal] old[1:29] new[1:29]
+2022-02-23 11:26:40 DEBUG-copy old[1:29] new[1:14]
+2022-02-23 11:26:40 DEBUG-parse_part from 15 to 30 (to 29 in part parser)
+2022-02-23 11:26:40 DEBUG--> code[replace] old[30:30] new[30:30]
+2022-02-23 11:26:40 DEBUG-diff parser end
+2022-02-23 11:26:43 DEBUG-diff parser start
+2022-02-23 11:26:43 DEBUG-line_lengths old: 30; new: 30
+2022-02-23 11:26:43 DEBUG--> code[equal] old[1:29] new[1:29]
+2022-02-23 11:26:43 DEBUG-copy old[1:29] new[1:14]
+2022-02-23 11:26:43 DEBUG-parse_part from 15 to 30 (to 29 in part parser)
+2022-02-23 11:26:43 DEBUG--> code[replace] old[30:30] new[30:30]
+2022-02-23 11:26:43 DEBUG-diff parser end
+2022-02-23 11:28:12 DEBUG-diff parser start
+2022-02-23 11:28:12 DEBUG-line_lengths old: 30; new: 32
+2022-02-23 11:28:12 DEBUG--> code[equal] old[1:29] new[1:29]
+2022-02-23 11:28:12 DEBUG-copy old[1:29] new[1:14]
+2022-02-23 11:28:12 DEBUG-parse_part from 15 to 32 (to 31 in part parser)
+2022-02-23 11:28:12 DEBUG--> code[replace] old[30:30] new[30:32]
+2022-02-23 11:28:12 DEBUG-diff parser end
+2022-02-23 11:30:18 DEBUG-diff parser start
+2022-02-23 11:30:18 DEBUG-line_lengths old: 32; new: 1
+2022-02-23 11:30:18 DEBUG--> code[replace] old[1:32] new[1:1]
+2022-02-23 11:30:18 DEBUG-parse_part from 1 to 1 (to 0 in part parser)
+2022-02-23 11:30:18 DEBUG-diff parser end
+2022-02-23 11:30:53 ERROR-Error in reading file:[Errno 2] No such file or directory: 'file'
+2022-02-23 11:32:22 DEBUG-diff parser start
+2022-02-23 11:32:22 DEBUG-line_lengths old: 1; new: 1
+2022-02-23 11:32:22 DEBUG--> code[replace] old[1:1] new[1:1]
+2022-02-23 11:32:22 DEBUG-parse_part from 1 to 1 (to 0 in part parser)
+2022-02-23 11:32:22 DEBUG-diff parser end
+2022-02-23 11:36:01 DEBUG-diff parser start
+2022-02-23 11:36:01 DEBUG-line_lengths old: 1; new: 34
+2022-02-23 11:36:01 DEBUG--> code[replace] old[1:1] new[1:34]
+2022-02-23 11:36:01 DEBUG-parse_part from 1 to 34 (to 33 in part parser)
+2022-02-23 11:36:01 DEBUG-diff parser end
+2022-02-23 11:38:06 ERROR-Error in reading file:[Errno 2] No such file or directory: 'file'
+2022-02-23 11:39:23 DEBUG-diff parser start
+2022-02-23 11:39:23 DEBUG-line_lengths old: 34; new: 1
+2022-02-23 11:39:23 DEBUG--> code[replace] old[1:34] new[1:1]
+2022-02-23 11:39:23 DEBUG-parse_part from 1 to 1 (to 0 in part parser)
+2022-02-23 11:39:23 DEBUG-diff parser end
+2022-02-23 11:40:15 INFO-Word count for records: 29647 from 2Datasets
+2022-02-23 11:46:16 ERROR-Error in reading file:[Errno 2] No such file or directory: 'file'
+2022-02-23 11:46:25 DEBUG-diff parser start
+2022-02-23 11:46:25 DEBUG-line_lengths old: 1; new: 1
+2022-02-23 11:46:25 DEBUG--> code[replace] old[1:1] new[1:1]
+2022-02-23 11:46:25 DEBUG-parse_part from 1 to 1 (to 0 in part parser)
+2022-02-23 11:46:25 DEBUG-diff parser end
+2022-02-28 15:49:37 DEBUG-pickle loaded: C:\Users\rohan\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-02-28 15:49:37 DEBUG-pickle loaded: C:\Users\rohan\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-02-28 15:49:59 INFO-Data record count : 26 from 2Datasets
+2022-02-28 15:51:47 DEBUG-diff parser start
+2022-02-28 15:51:47 DEBUG-line_lengths old: 1; new: 1
+2022-02-28 15:51:47 DEBUG--> code[replace] old[1:1] new[1:1]
+2022-02-28 15:51:47 DEBUG-parse_part from 1 to 1 (to 0 in part parser)
+2022-02-28 15:51:47 DEBUG-diff parser end
+2022-02-28 15:51:47 DEBUG-pickle loaded: C:\Users\rohan\anaconda3\lib\typing.py
+2022-02-28 15:51:47 DEBUG-pickle loaded: C:\Users\rohan\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-02-28 15:53:13 DEBUG-diff parser start
+2022-02-28 15:53:13 DEBUG-line_lengths old: 1; new: 1
+2022-02-28 15:53:13 DEBUG--> code[replace] old[1:1] new[1:1]
+2022-02-28 15:53:13 DEBUG-parse_part from 1 to 1 (to 0 in part parser)
+2022-02-28 15:53:13 DEBUG-diff parser end
+2022-02-28 15:53:38 INFO-Total filter records: 115429 from 1Datasets
+2022-02-28 15:53:52 DEBUG-diff parser start
+2022-02-28 15:53:52 DEBUG-line_lengths old: 1; new: 1
+2022-02-28 15:53:52 DEBUG--> code[replace] old[1:1] new[1:1]
+2022-02-28 15:53:52 DEBUG-parse_part from 1 to 1 (to 0 in part parser)
+2022-02-28 15:53:52 DEBUG-diff parser end
+2022-02-28 15:57:20 INFO-Success Return of list of list
+2022-02-28 16:00:26 DEBUG-diff parser start
+2022-02-28 16:00:26 DEBUG-line_lengths old: 1; new: 1
+2022-02-28 16:00:26 DEBUG--> code[replace] old[1:1] new[1:1]
+2022-02-28 16:00:26 DEBUG-parse_part from 1 to 1 (to 0 in part parser)
+2022-02-28 16:00:26 DEBUG-diff parser end
+2022-02-28 16:01:59 INFO-Database Created: <sqlite3.Connection object at 0x0000018246D64990>
+2022-02-28 16:01:59 INFO-Total records inserted: 6906
+2022-02-28 16:02:35 INFO-Database Created: <sqlite3.Connection object at 0x0000018246D64A80>
+2022-02-28 16:02:35 ERROR-Error: table main_table already exists
